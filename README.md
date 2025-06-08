@@ -1,6 +1,6 @@
-# 💫 Hi 👋
+## 💫 Hi 👋
 
-**Waleed Shah - Full Stack Developer**
+# Waleed Shah - Full Stack Developer 
 
 Dynamic Web App Developer || Skilled on React js, Express js, MongoDB, Node js.
 
